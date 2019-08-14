@@ -28,5 +28,8 @@ var kittens = ["Milo", "Otis", "Garfield"] //resetting array
 function appendKitten(name){
   var newKittens = [...kittens, name];
   return newKittens;
+}
+
+function prependKitten(name){
   
 }
