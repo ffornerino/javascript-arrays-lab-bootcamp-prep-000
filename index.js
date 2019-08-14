@@ -40,7 +40,7 @@ function removeLastKitten(name){
   return newKittens;
 }
 
-fucntion removeFirstKitten(name){
+function removeFirstKitten(name){
   var newKittens = kittens.slice(1);
   return newKittens;
 }
