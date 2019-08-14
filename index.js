@@ -13,4 +13,6 @@ function destructivelyPrependKitten(name){
 }
 var kittens = ["Milo", "Otis", "Garfield"] //resetting array
 
-function 
+function destructivelyRemoveLastKitten(name){
+  
+}
