@@ -11,3 +11,6 @@ var kittens = ["Milo", "Otis", "Garfield"] //resetting array
 function destructivelyPrependKitten(name){
   return kittens.unshift(name);
 }
+var kittens = ["Milo", "Otis", "Garfield"] //resetting array
+
+function 
